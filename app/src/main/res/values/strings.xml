@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="vizekutu">Vize Notu:</string>
+    <string name="finalkutu">Final Notu:</string>
+    <string name="vizeorankutu">Oran:</string>
+
+</resources>
